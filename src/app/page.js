@@ -1,9 +1,9 @@
 import Image from "next/image";
-import gangsign from "@/public/gangsign.jpg";
+import gangsign from "@/public/bewicked.jpg";
 import telegram from "@/public/Telegram_2019_Logo.svg-removebg-preview.png"
 import twitter from "@/public/twitter.webp";
 import dex from "@/public/dexx.png";
-import gangster from "@/public/bewicked.jpg";
+import gangster from "@/public/gangster-bg.jpg";
 import Parallax from "../../components/Parallax";
 
 export default function Home() {
