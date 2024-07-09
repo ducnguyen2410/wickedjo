@@ -5,6 +5,11 @@ import twitter from "@/public/twitter.webp";
 import dex from "@/public/dexx.png";
 import gangster from "@/public/gangster-bg.jpg";
 import Parallax from "../../components/Parallax";
+import wicked1 from "@/public/wicked1.jpg"
+import wicked2 from "@/public/wicked2.jpg"
+import wicked3 from "@/public/wicked3.jpg"
+import wicked4 from "@/public/wicked4.jpg"
+import wicked5 from "@/public/wicked5.jpg"
 
 export default function Home() {
   return (
@@ -15,7 +20,7 @@ export default function Home() {
       <Parallax />
       <div className="w-full main-content mt-[100vh]">
         <Image src={gangster} alt="" className="imgg" />
-        <div className="definition h-[150vh]">
+        <div className="definition h-[300vh]">
           <div className="intro">
             <div className="name-des">
               <span>`Wicked`</span>
@@ -44,6 +49,13 @@ export default function Home() {
           <div className="hand-sign">
             <span>Adopt the wicked mind</span>
             <Image src={gangsign} alt="" className="imggg" />
+            <div className="wrap">
+              <Image src={wicked1}/>
+              <Image src={wicked2}/>
+              <Image src={wicked3}/>
+              <Image src={wicked4}/>
+              <Image src={wicked5}/>
+            </div>
           </div>
         </div>
       </div>
