@@ -21,7 +21,7 @@ export default function Home() {
               <span>`Wicked`</span>
               <span>
                 Wicked literally means evil. In slang it means perfect or
-                excellent.If you describe someone or something as wicked, you
+                excellent. If you describe someone or something as wicked, you
                 mean that they are rather naughty, but in a way that you find
                 attractive or enjoyable.
               </span>
