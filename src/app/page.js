@@ -42,7 +42,7 @@ export default function Home() {
             <span>CA: Coming soon!</span>
           </div>
           <div className="hand-sign">
-            <span>Be Wicked</span>
+            <span>Adopt the wicked mind</span>
             <Image src={gangsign} alt="" className="imggg" />
           </div>
         </div>
