@@ -6,7 +6,6 @@
         position: sticky;
         top: 0;
         height: 100vh;
-        background-color: black;
         overflow: hidden;
     }
 
@@ -75,6 +74,20 @@
                 height: 27vh;
             }
         }
+    }
+}
+
+.content__img {
+    max-width: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+@media screen and (min-width: 50em) {
+    .content {
+        height: 300vh;
+        overflow: hidden;
     }
 }
 
