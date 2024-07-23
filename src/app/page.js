@@ -17,13 +17,13 @@ export default function Home() {
     <div className="flex flex-col">
       <div className="navbar sticky top-[0] z-[11111]">
         <div className="socials start">
-          <a href="https://t.me/trusttheprocesssol">Home</a>
-          <a href="https://t.me/trusttheprocesssol">Dex</a>
+          <a href="https://t.me/trustehprocess">Home</a>
+          <a href="https://t.me/trustehprocess">Dex</a>
         </div>
         <span className="ticker">trust the process.</span>
         <div className="socials end">
           <a href="https://x.com/trustehprocess">X</a>
-          <a href="https://t.me/trusttheprocesssol">Tg</a>
+          <a href="https://t.me/trustehprocess">Tg</a>
         </div>
       </div>
       <Parallax />
