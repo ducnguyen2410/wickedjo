@@ -124,9 +124,4 @@ body {
     display: flex;
     flex-direction: column;
   }
-
-  .hand-sign .imggg {
-    width: 300px;
-    height: 300px;
-  }
 }
