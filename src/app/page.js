@@ -20,13 +20,13 @@ export default function Home() {
               </span>
             </div>
             <div className="socials">
-              <a href="" target="_blank">
+              <a href="https://t.me/pullupmf" target="_blank">
                 <Image alt="Telegram" src={telegram}/>
               </a>
               <a href="https://x.com/pullupmf" target="_blank">
                 <Image alt="Twitter" src={twitter}/>
               </a>
-              <a href="" target="_blank">
+              <a href="https://t.me/pullupmf" target="_blank">
                 <Image alt="Dex" src={dex}/>
               </a>
             </div>
