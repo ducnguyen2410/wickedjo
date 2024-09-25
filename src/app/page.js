@@ -1,5 +1,5 @@
 import Image from "next/image";
-import gangsign from "@/public/gangsign.jpg";
+import gangsign from "@/public/banner.jpg";
 import telegram from "@/public/Telegram_2019_Logo.svg-removebg-preview.png"
 import twitter from "@/public/twitter.webp";
 import dex from "@/public/dexx.png";
@@ -15,15 +15,15 @@ export default function Home() {
         <div className="definition h-[150vh]">
           <div className="intro">
             <div className="name-des">
-              <span>`Wicked`</span>
-              <span>No sleep for the wicked
+              <span>`Pull Up`</span>
+              <span>Pull up and cope hard
               </span>
             </div>
             <div className="socials">
               <a href="" target="_blank">
                 <Image alt="Telegram" src={telegram}/>
               </a>
-              <a href="" target="_blank">
+              <a href="https://x.com/pullupmf" target="_blank">
                 <Image alt="Twitter" src={twitter}/>
               </a>
               <a href="" target="_blank">

@@ -1,12 +1,12 @@
 "use client";
 
 import Image from "next/image";
-import image1 from "@/public/1.jpg";
-import image2 from "@/public/2.jpg";
-import image3 from "@/public/3.jpg";
-import image4 from "@/public/4.jpg";
-import image5 from "@/public/5.jpg";
-import image6 from "@/public/6.jpg";
+import image1 from "@/public/1.png";
+import image2 from "@/public/2.png";
+import image3 from "@/public/3.png";
+import image4 from "@/public/4.png";
+import image5 from "@/public/5.png";
+import image6 from "@/public/6.png";
 import gun from "@/public/point-gun.jpg";
 import styles from "./styles/styles.module.scss";
 import { useScroll, useTransform, motion } from "framer-motion";
